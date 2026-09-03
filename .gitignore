@@ -1,0 +1,18 @@
+# Compiler files
+cache/
+out/
+
+# Dependencies (npm)
+node_modules/
+
+# Broadcast
+broadcast/
+
+# Dotenv / secrets
+.env
+.env.*
+!.env.example
+
+# OS / editor cruft
+.DS_Store
+*.swp
